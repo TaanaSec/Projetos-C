@@ -1,0 +1,6 @@
+{
+    "c-cpp-compile-run.c-compiler": "C:\\MinGW\\bin\\gcc.exe",
+    "c-cpp-compile-run.save-before-compile": true,
+    "c-cpp-compile-run.output-location": "output",
+    "c-cpp-compile-run.skip-if-compiled": false
+}
